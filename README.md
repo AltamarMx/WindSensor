@@ -1,7 +1,7 @@
 # WindSensor
 ###### This repository explain the funtion of the Wind-Sensor module with two programs
 
-##### El Windsensor Rev P es un módulo que mide la rapidez del viento, tienen integrado para compensación o ajuste, un sensor de temperatura, los códigos probados están en la carpeta **SRC** y son tres:
+##### El Windsensor Rev P es un módulo que mide la rapidez del viento, tiene integrado para compensación o ajuste, un sensor de temperatura, los códigos probados están en la carpeta **SRC** y son tres:
 
   1. [**windHuertero**](https://github.com/jwilliamsee/WindSensor/tree/main/SRC/windHuertero): código trabajado en el IER por Miguel Ángel Huertero
   2. [**windFabricante**](https://github.com/jwilliamsee/WindSensor/tree/main/SRC/windFabricante): código que ha sido trabajado por Rafael Moya y Daniel Prohaskycon, en donde realizaron pruebas prácticas en un mini tunel de viento con la intención de calibrarlo, mencionan que se conectaron hasta 6 Windsensor Rep P para sus pruebas.
@@ -35,3 +35,9 @@
 ![](https://github.com/jwilliamsee/WindSensor/blob/main/Imagenes/windS.jpg)
 
 ------------
+##### El diagrama de conexión se encuentra en la carpeta **Diagramas**, el pin a donde se conecte dependerá del código o la placa que desea usar.
+##### Diagrama de conexión en TinkerCAD
+![](https://github.com/jwilliamsee/WindSensor/blob/main/Diagramas/PictogramaTinkerCAD.JPG)
+
+##### Diagrama de conexión en Fritzing
+![](https://github.com/jwilliamsee/WindSensor/blob/main/Diagramas/Pictograma.jpg?raw=true)

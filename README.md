@@ -41,3 +41,19 @@
 
 ##### Diagrama de conexión en Fritzing
 ![](https://github.com/jwilliamsee/WindSensor/blob/main/Diagramas/Pictograma.jpg?raw=true)
+
+### A continuación se muestran las lecturas de cada código, la velocidad que se suministraba no se tiene controlado (no sé conoce), la diferencia entre uno y otro no debe variar mucho, pero la que se tiene que considerar es la de Miguel Huertero.
+
+### Miguel Huertero
+![](![image](https://user-images.githubusercontent.com/69220950/128098648-ccbc2380-e17e-481b-8f11-9b0b84fad788.png)
+------------
+
+### Fabricante
+![](https://github.com/jwilliamsee/WindSensor/blob/main/Imagenes/windFabricante.JPG?raw=true)
+------------
+
+### Mini-Tunel
+![](https://github.com/jwilliamsee/WindSensor/blob/main/Imagenes/windMiniTunel.JPG?raw=true)
+------------
+
+
